@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="readme edit">
-      <change afterPath="$PROJECT_DIR$/labs/base/infosec.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/base.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="base 1 added">
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674713682615</updated>
       <workItem from="1674713683878" duration="5596000" />
-      <workItem from="1674719464892" duration="648000" />
+      <workItem from="1674719464892" duration="1001000" />
     </task>
     <task id="LOCAL-00001" summary="readme edit">
       <created>1674717408513</created>
@@ -110,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674717537631</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="base 1 added">
+      <created>1674720355014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674720355014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="readme edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme edit" />
+    <MESSAGE value="base 1 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="base 1 added" />
   </component>
 </project>

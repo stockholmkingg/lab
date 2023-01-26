@@ -2,7 +2,7 @@
 ![labs logo](https://content.spiceworksstatic.com/service.community/p/post_images/0000025549/53adc2b3/attached_image/axon.jpg)
 
 
-#### [Информационная безопасность]([infosec.md](labs%2Fbase%2Finfosec.md))
+#### [Информационная безопасность]()
 #### Информация с ограниченным доступом (тайны)
 #### Нормативное регулирование
 #### Классификация и категоризация информации, информационных систем
