@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="base links">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/base/class.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/base/class.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/base/crypto.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/base/crypto.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/base/financial.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/base/financial.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/base/infosec.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/base/infosec.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/base/international.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/base/international.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/base/lic.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/base/lic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/base/model.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/base/model.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/base/norma.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/base/norma.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/base/secret.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/base/secret.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/base/theory.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/base/theory.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="base completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674713682615</updated>
       <workItem from="1674713683878" duration="5596000" />
-      <workItem from="1674719464892" duration="6476000" />
+      <workItem from="1674719464892" duration="6825000" />
     </task>
     <task id="LOCAL-00001" summary="readme edit">
       <created>1674717408513</created>
@@ -145,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674720940362</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="base completed">
+      <created>1674726401256</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674726401256</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +151,7 @@
     <MESSAGE value="base shablon" />
     <MESSAGE value="base shablon v2" />
     <MESSAGE value="base links" />
-    <option name="LAST_COMMIT_MESSAGE" value="base links" />
+    <MESSAGE value="base completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="base completed" />
   </component>
 </project>
