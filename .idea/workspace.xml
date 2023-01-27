@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="base completed" />
+    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="base completed">
+      <change afterPath="$PROJECT_DIR$/labs/network/BGP, DNS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/HTTP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/IPv4, IPv6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/TCP, UDP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/VPN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/Wi-Fi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/attack.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/base network sec.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/network.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/org sec.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674713682615</updated>
       <workItem from="1674713683878" duration="5596000" />
-      <workItem from="1674719464892" duration="6825000" />
+      <workItem from="1674719464892" duration="8563000" />
     </task>
     <task id="LOCAL-00001" summary="readme edit">
       <created>1674717408513</created>
@@ -139,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674726401256</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="base completed">
+      <created>1674726650391</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674726650391</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
