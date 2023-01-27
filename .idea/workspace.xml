@@ -4,18 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="base completed">
-      <change afterPath="$PROJECT_DIR$/labs/network/BGP, DNS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/network/HTTP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/network/IPv4, IPv6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/network/TCP, UDP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/network/VPN.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/network/Wi-Fi.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/network/attack.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/network/base network sec.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/network/network.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs/network/org sec.md" afterDir="false" />
+    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="pre-link">
+      <change afterPath="$PROJECT_DIR$/images/IPv4scheme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/IPv4scheme.v2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WiFIscheme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/BGPimages/BGPalibaba.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/BGPimages/BGPask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/BGPimages/BGPimgur.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/BGPimages/BGPnetology.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/BGPimages/BGPscheme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labs/network/BGPimages/BGPyahoo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/network/BGP, DNS.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/network/BGP, DNS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/network/IPv4, IPv6.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/network/IPv4, IPv6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/network/TCP, UDP.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/network/TCP, UDP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/network/VPN.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/network/VPN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/network/Wi-Fi.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/network/Wi-Fi.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +56,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -101,7 +106,9 @@
       <option name="presentableId" value="Default" />
       <updated>1674713682615</updated>
       <workItem from="1674713683878" duration="5596000" />
-      <workItem from="1674719464892" duration="8563000" />
+      <workItem from="1674719464892" duration="12806000" />
+      <workItem from="1674818990790" duration="32000" />
+      <workItem from="1674819044878" duration="314000" />
     </task>
     <task id="LOCAL-00001" summary="readme edit">
       <created>1674717408513</created>
@@ -159,19 +166,28 @@
       <option name="project" value="LOCAL" />
       <updated>1674726650391</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="pre-link">
+      <created>1674815019992</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674815019992</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="readme edit" />
     <MESSAGE value="base 1 added" />
     <MESSAGE value="base shablon" />
     <MESSAGE value="base shablon v2" />
     <MESSAGE value="base links" />
     <MESSAGE value="base completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="base completed" />
+    <MESSAGE value="pre-link" />
+    <option name="LAST_COMMIT_MESSAGE" value="pre-link" />
   </component>
 </project>
