@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="os pre-link">
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="os linked" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +93,7 @@
       <workItem from="1674719464892" duration="12806000" />
       <workItem from="1674818990790" duration="32000" />
       <workItem from="1674819044878" duration="931000" />
-      <workItem from="1674820003833" duration="6918000" />
+      <workItem from="1674820003833" duration="7253000" />
     </task>
     <task id="LOCAL-00001" summary="readme edit">
       <created>1674717408513</created>
@@ -188,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674829730307</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="os linked">
+      <created>1674830092781</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674830092781</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +211,7 @@
     <MESSAGE value="linked BGP" />
     <MESSAGE value="network completed" />
     <MESSAGE value="os pre-link" />
-    <option name="LAST_COMMIT_MESSAGE" value="os pre-link" />
+    <MESSAGE value="os linked" />
+    <option name="LAST_COMMIT_MESSAGE" value="os linked" />
   </component>
 </project>
