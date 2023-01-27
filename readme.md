@@ -39,18 +39,18 @@
 </details>
 
 ## Безопасность операционных систем, системное программирование
-#### [ОС Windows. Часть 1]()
-#### [ОС Windows. Часть 2]()
-#### [ОС Linux. Часть 1]()
-#### [ОС Linux. Часть 2]()
-#### [Использование командных оболочек. Часть 1]()
-#### [Использование командных оболочек. Часть 2]()
-#### [Язык Python. Основы]()
-#### [Язык Python в информационной безопасности]()
-#### [Язык Python. Криптография]()
-#### [Языс C и программные уязвимости]()
-#### [Реверс-инжиниринг]()
-#### [Статический и динамический анализ]()
+#### [ОС Windows. Часть 1](https://github.com/stockholmkingg/lab/blob/main/labs/os/win.md)
+#### [ОС Windows. Часть 2](https://github.com/stockholmkingg/lab/blob/main/labs/os/win2.md)
+#### [ОС Linux. Часть 1](https://github.com/stockholmkingg/lab/blob/main/labs/os/linux.md)
+#### [ОС Linux. Часть 2](https://github.com/stockholmkingg/lab/blob/main/labs/os/linux2.md)
+#### [Использование командных оболочек. Часть 1](https://github.com/stockholmkingg/lab/blob/main/labs/os/command.md)
+#### [Использование командных оболочек. Часть 2](https://github.com/stockholmkingg/lab/blob/main/labs/os/command2.md)
+#### [Язык Python. Основы](https://github.com/stockholmkingg/lab/blob/main/labs/os/pythonBASE.md)
+#### [Язык Python в информационной безопасности](https://github.com/stockholmkingg/lab/blob/main/labs/os/pythonIB.md)
+#### [Язык Python. Криптография](https://github.com/stockholmkingg/lab/blob/main/labs/os/pythonCRYPTO.md)
+#### [Языс C и программные уязвимости](https://github.com/stockholmkingg/lab/blob/main/labs/os/C.md)
+#### [Реверс-инжиниринг](https://github.com/stockholmkingg/lab/blob/main/labs/os/reverse.md)
+#### [Статический и динамический анализ](https://github.com/stockholmkingg/lab/blob/main/labs/os/analysis.md)
 
 <details><summary>Сертификат</summary>
 <p>
