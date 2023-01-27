@@ -20,13 +20,13 @@
 
 <details><summary>netology.ru</summary>
 <p>
-    <img src=X:\github home\lab\labs\network\BGPimages\BGPnetology.png>
+    <img src=BGPimages/BGPnetology.png>
 </p>
 </details>
 
 <details><summary>yahoo.com</summary>
 <p>
-    <img src=BGPimages/BGPnetology.png>
+    <img src=BGPimages/BGPyahoo.png>
 </p>
 </details>
 
