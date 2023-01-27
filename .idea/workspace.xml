@@ -4,31 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="linked BGP">
-      <change afterPath="$PROJECT_DIR$/images/BASEscheme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/BASEscheme.v2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HTTPcode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HTTPcode.v10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HTTPcode.v2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HTTPcode.v3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HTTPcode.v4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HTTPcode.v5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HTTPcode.v6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HTTPcode.v7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HTTPcode.v8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/HTTPcode.v9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/OSNscheme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/OSNscheme.v2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/OSNscheme.v3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/OSNscheme.v4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/OSNscheme.v5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/OSNscheme.v6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/OSNscheme.v7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/network/HTTP.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/network/HTTP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/network/attack.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/network/attack.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/network/base network sec.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/network/base network sec.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labs/network/org sec.md" beforeDir="false" afterPath="$PROJECT_DIR$/labs/network/org sec.md" afterDir="false" />
+    <list default="true" id="b7fe1cb6-e1e6-4da5-aa4a-cedd22b28845" name="Changes" comment="network completed">
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +95,7 @@
       <workItem from="1674719464892" duration="12806000" />
       <workItem from="1674818990790" duration="32000" />
       <workItem from="1674819044878" duration="931000" />
-      <workItem from="1674820003833" duration="6194000" />
+      <workItem from="1674820003833" duration="6620000" />
     </task>
     <task id="LOCAL-00001" summary="readme edit">
       <created>1674717408513</created>
@@ -197,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674819737563</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="network completed">
+      <created>1674829248394</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674829248394</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +197,7 @@
     <MESSAGE value="base completed" />
     <MESSAGE value="pre-link" />
     <MESSAGE value="linked BGP" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked BGP" />
+    <MESSAGE value="network completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="network completed" />
   </component>
 </project>
