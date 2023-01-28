@@ -1,7 +1,6 @@
 # **Список выполненных лабораторных работ**
-![labs logo](https://content.spiceworksstatic.com/service.community/p/post_images/0000025549/53adc2b3/attached_image/axon.jpg)
 ## Основы информационной безопасности (работы кликабельны)
-![baseLOGO.jpg](images%2FbaseLOGO.jpg)
+![labs logo](https://content.spiceworksstatic.com/service.community/p/post_images/0000025549/53adc2b3/attached_image/axon.jpg)
 #### [Информационная безопасность](https://github.com/stockholmkingg/lab/blob/main/labs/base/infosec.md)
 #### [Информация с ограниченным доступом (тайны)](https://github.com/stockholmkingg/lab/blob/main/labs/base/secret.md)
 #### [Нормативное регулирование](https://github.com/stockholmkingg/lab/blob/main/labs/base/norma.md)
