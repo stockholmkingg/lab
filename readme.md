@@ -1,6 +1,7 @@
 # **Список выполненных лабораторных работ**
 ![labs logo](https://content.spiceworksstatic.com/service.community/p/post_images/0000025549/53adc2b3/attached_image/axon.jpg)
 ## Основы информационной безопасности (работы кликабельны)
+![baseLOGO.jpg](images%2FbaseLOGO.jpg)
 #### [Информационная безопасность](https://github.com/stockholmkingg/lab/blob/main/labs/base/infosec.md)
 #### [Информация с ограниченным доступом (тайны)](https://github.com/stockholmkingg/lab/blob/main/labs/base/secret.md)
 #### [Нормативное регулирование](https://github.com/stockholmkingg/lab/blob/main/labs/base/norma.md)
@@ -19,6 +20,7 @@
 </details>
 
 ## Сети передачи данных и безопасность
+![networkLOGO.gif](images%2FnetworkLOGO.gif)
 #### VirtualBox
 #### OC Linux
 #### [Сетевые технологии, ключевые устройства](https://github.com/stockholmkingg/lab/blob/main/labs/network/network.md)
@@ -39,6 +41,7 @@
 </details>
 
 ## Безопасность операционных систем, системное программирование
+![osLOGO.jpg](images%2FosLOGO.jpg)
 #### [ОС Windows. Часть 1](https://github.com/stockholmkingg/lab/blob/main/labs/os/win.md)
 #### [ОС Windows. Часть 2](https://github.com/stockholmkingg/lab/blob/main/labs/os/win2.md)
 #### [ОС Linux. Часть 1](https://github.com/stockholmkingg/lab/blob/main/labs/os/linux.md)
@@ -59,6 +62,7 @@
 </details>
 
 ## Git
+![githubLOGO.png](images%2FgithubLOGO.png)
 #### Внедрение системы контроля версий
 #### История работы и ветки
 #### Командная работа
