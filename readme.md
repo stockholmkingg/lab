@@ -50,10 +50,21 @@
 #### [Язык Python. Криптография](https://github.com/stockholmkingg/lab/blob/main/labs/os/pythonCRYPTO.md)
 #### [Языс C и программные уязвимости](https://github.com/stockholmkingg/lab/blob/main/labs/os/C.md)
 #### [Реверс-инжиниринг](https://github.com/stockholmkingg/lab/blob/main/labs/os/reverse.md)
-#### [Статический и динамический анализ](https://github.com/stockholmkingg/lab/blob/main/labs/os/analysis.md)
+#### Статический и динамический анализ
 
 <details><summary>Сертификат</summary>
 <p>
     <img src=images/oc.jpg>
+</p>
+</details>
+
+## Git
+#### Внедрение системы контроля версий
+#### История работы и ветки
+#### Командная работа
+
+<details><summary>Сертификат</summary>
+<p>
+    <img src=images/git.jpg>
 </p>
 </details>
