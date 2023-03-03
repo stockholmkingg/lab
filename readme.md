@@ -72,6 +72,16 @@
 </p>
 </details>
 
+## Современная разработка ПО
+![dev_image.jpg](labs%2Fdev%2Fimages%2Fdev_image.jpg)
+#### [Контейнеризация (Docker)](labs/dev/docker.md)
+#### [Популярные языки, системы сборки, управления зависимостями](labs/dev/sonarcube.md)
+#### [Системы контроля версий и CI/CD](labs/dev/cicd.md)
+#### [Cистемы хранения данных (СУБД)](labs/dev/database.md)
+#### Системы хранения данных (кэши, очереди, файловая система) | WORK IN PROGRESS...
+#### SQL и транзакции | WORK IN PROGRESS...
+#### JavaScript | WORK IN PROGRESS...
+
 ## Собственный проект "Discord-бот на Python"
 ![discordLOGO.jpg](images%2FdiscordLOGO.jpg)
 Проводя время в компании друзей за компьютерной игрой в голову пришла мысль о Discord-боте, который бы брал внутриигровые 
