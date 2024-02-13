@@ -1,3 +1,5 @@
+# OUTDATED
+
 # **Список выполненных лабораторных работ**
 ## Основы информационной безопасности (работы кликабельны)
 ![labs logo](https://content.spiceworksstatic.com/service.community/p/post_images/0000025549/53adc2b3/attached_image/axon.jpg)
